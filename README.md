@@ -10,6 +10,6 @@ An AI-powered service that maps academic courses and curricula to a standardized
 
 CSR uses **semantic understanding** to align course descriptions with a comprehensive **Skills Taxonomy**, enabling key use cases such as:
 
-- Course → Skills mapping
-- Program-level skill mapping and coverage analysis
-- Curriculum analysis and gap detection (Hopefully 😊)
+- Course → Skills mapping (Phase 1)
+- Program-level skill mapping and coverage analysis (Phase 2)
+- Program curriculum analysis and gap detection aligned with labor market demand (Hopefully 😊) (Phase 3)
